@@ -1,0 +1,31 @@
+.title{
+    text-align: center;
+    text-shadow: 5px 5px 5px hotpink;
+}
+.add-text{
+
+    height: 100px;
+    border:1px solid black ;
+    margin-top: 25px;
+    border-radius:10px ;
+    padding-top:15px ;
+}
+#input{
+    width:370px;
+    margin-top:8px;
+}
+
+
+.butt{
+    margin-bottom: 15px;
+}
+.icons{
+    display: inline;
+    float: right;
+    font-size: 20px;
+    color: hotpink;
+}
+span{
+    color:hotpink;
+    padding: 5px 200px 5px 10px;
+}
